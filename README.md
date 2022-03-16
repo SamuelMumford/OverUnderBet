@@ -6,7 +6,7 @@ Code to make bar plots for over/under bets. Needs a chromedriver to run and supp
 
 _(Probably new ones)_
 
-**selenium**: https://selenium-python.readthedocs.io/installation.html - The base package to open and manage websites
+[**selenium**](https://selenium-python.readthedocs.io/installation.html): The base package to open and manage websites
 
 **webdriver_manager**.chrome: https://pypi.org/project/webdriver-manager/ - Very useful package so the webdriver doesn't break every time Chrome updates
 
