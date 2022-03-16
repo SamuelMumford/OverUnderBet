@@ -8,15 +8,15 @@ _(Probably new ones)_
 
 [**selenium**](https://selenium-python.readthedocs.io/installation.html): The base package to open and manage websites
 
-**webdriver_manager**.chrome: https://pypi.org/project/webdriver-manager/ - Very useful package so the webdriver doesn't break every time Chrome updates
+[**webdriver_manager**](https://pypi.org/project/webdriver-manager/).chrome: Very useful package so the webdriver doesn't break every time Chrome updates
 
-**bs4**: https://pypi.org/project/bs4/ - Base package to get website data in a readable form
+[**bs4**](https://pypi.org/project/bs4/): Base package to get website data in a readable form
 
 _(Probably ones you have)_
 
-**matplotlib**: https://matplotlib.org/stable/users/installing/index.html - plotting library
+[**matplotlib**](https://matplotlib.org/stable/users/installing/index.html): Plotting library
 
-**numpy**: https://numpy.org/install/ - It's numpy
+[**numpy**](https://numpy.org/install/): It's numpy
 
 _(If you don't have it, python is maybe broken)_
 
